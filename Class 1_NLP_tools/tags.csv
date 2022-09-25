@@ -1,0 +1,424 @@
+,Etiqueta,Código
+0,Indie,492
+1,Action,19
+2,Adventure,21
+3,Casual,597
+4,Simulation,599
+5,Strategy,9
+6,RPG,122
+7,Early Access,493
+8,Singleplayer,4182
+9,Free to Play,113
+10,Violent,4667
+11,Sports,701
+12,Massively Multiplayer,128
+13,2D,3871
+14,Atmospheric,4166
+15,Gore,4345
+16,Racing,699
+17,Multiplayer,3859
+18,Puzzle,1664
+19,Nudity,6650
+20,Sexual Content,12095
+21,Story Rich,1742
+22,Great Soundtrack,1756
+23,Fantasy,1684
+24,Anime,4085
+25,Pixel Graphics,3964
+26,Funny,4136
+27,Difficult,4026
+28,First-Person,3839
+29,VR,21978
+30,Horror,1667
+31,Sci-fi,3942
+32,Shooter,1774
+33,Cute,4726
+34,Arcade,1773
+35,Retro,4004
+36,Colorful,4305
+37,Family Friendly,5350
+38,Co-op,1685
+39,Platformer,1625
+40,Open World,1695
+41,Exploration,3834
+42,Survival,1662
+43,Female Protagonist,7208
+44,FPS,1663
+45,Comedy,1719
+46,Relaxing,1654
+47,3D,4191
+48,Visual Novel,3799
+49,Utilities,87
+50,Online Co-Op,3843
+51,Turn-Based,1677
+52,Design & Illustration,84
+53,Third Person,1697
+54,Sandbox,3810
+55,Replay Value,4711
+56,Action-Adventure,4106
+57,Physics,3968
+58,Psychological Horror,1721
+59,Realistic,4175
+60,Choices Matter,6426
+61,Space,1755
+62,PvP,1775
+63,Point & Click,1698
+64,Mystery,5716
+65,Dark,4342
+66,Local Multiplayer,7368
+67,Tactical,1708
+68,Top-Down,4791
+69,Stylized,4252
+70,Controller,7481
+71,Building,1643
+72,Classic,1693
+73,Education,1036
+74,Management,12472
+75,Movie,4700
+76,Character Customization,4747
+77,Cartoony,4195
+78,Mature,5611
+79,Multiple Endings,6971
+80,Minimalist,4094
+81,Fast-Paced,1734
+82,Survival Horror,3978
+83,Zombies,1659
+84,Local Co-Op,3841
+85,Memes,10397
+86,Beautiful,5411
+87,Old School,3916
+88,Action RPG,4231
+89,Crafting,1702
+90,Shoot 'Em Up,4255
+91,Short,4234
+92,Side Scroller,3798
+93,Roguelike,1716
+94,Puzzle Platformer,5537
+95,Combat,3993
+96,Animation & Modeling,872
+97,War,1678
+98,Software,8013
+99,Party-Based RPG,10695
+100,Turn-Based Strategy,1741
+101,Procedural Generation,5125
+102,Futuristic,4295
+103,Web Publishing,1038
+104,Resource Management,8945
+105,Roguelite,3959
+106,JRPG,4434
+107,Magic,4057
+108,Hack and Slash,1646
+109,Walking Simulator,5900
+110,Historical,3987
+111,PvE,6730
+112,Hand-drawn,6815
+113,Dating Sim,9551
+114,Turn-Based Combat,4325
+115,Medieval,4172
+116,2D Platformer,5379
+117,Dark Fantasy,4604
+118,Cartoon,4562
+119,Romance,4947
+120,Audio Production,1027
+121,Bullet Hell,4885
+122,Stealth,1687
+123,Post-apocalyptic,3835
+124,RPGMaker,5577
+125,RTS,1676
+126,Fighting,1743
+127,Music,1621
+128,Base Building,7332
+129,Competitive,3878
+130,Hidden Object,1738
+131,Experimental,13782
+132,Dungeon Crawler,1720
+133,Drama,5984
+134,Surreal,1710
+135,Third-Person Shooter,3814
+136,Video Production,784
+137,Choose Your Own Adventure,4486
+138,Military,4168
+139,4 Player Local,4840
+140,Turn-Based Tactics,14139
+141,Top-Down Shooter,4637
+142,3D Platformer,5395
+143,Interactive Fiction,11014
+144,Isometric,5851
+145,Team-Based,5711
+146,Driving,1644
+147,Moddable,1669
+148,Dark Humor,5923
+149,Robots,5752
+150,Narration,5094
+151,Logic,6129
+152,Cyberpunk,4115
+153,Linear,7250
+154,Card Game,1666
+155,Tower Defense,1645
+156,Economy,4695
+157,Text-Based,31275
+158,Score Attack,5154
+159,Addictive,4190
+160,Aliens,1673
+161,Flight,15045
+162,Perma Death,1759
+163,LGBTQ+,44868
+164,2.5D,4975
+165,Soundtrack,7948
+166,Abstract,4400
+167,City Builder,4328
+168,Beat 'em up,4158
+169,1990's,6691
+170,Hentai,9130
+171,Thriller,4064
+172,Action Roguelike,42804
+173,World War II,4150
+174,Board Game,1770
+175,Metroidvania,1628
+176,Psychological,5186
+177,Detective,5613
+178,Game Development,13906
+179,Destruction,5363
+180,Software Training,1445
+181,Arena Shooter,5547
+182,Emotional,5608
+183,MMORPG,1754
+184,Character Action Game,3955
+185,Level Editor,8122
+186,Loot,4236
+187,1980s,7743
+188,Blood,5228
+189,Inventory Management,6276
+190,Cinematic,4145
+191,Tutorial,12057
+192,NSFW,24904
+193,Twin Stick Shooter,4758
+194,Crime,6378
+195,Real Time Tactics,3813
+196,Nature,30358
+197,Strategy RPG,17305
+198,Conversation,15172
+199,Demons,9541
+200,Dark Comedy,19995
+201,Episodic,4242
+202,Dystopian ,5030
+203,Psychedelic,1714
+204,Illuminati,7478
+205,Epic,3965
+206,Alternate History,4598
+207,Wargame,4684
+208,Parkour,4036
+209,Tactical RPG,21725
+210,Investigation,8369
+211,Modern,5673
+212,Time Management,16689
+213,Grand Strategy,4364
+214,Immersive Sim,9204
+215,Real-Time,4161
+216,Nonlinear,6869
+217,Automobile Sim,1100687
+218,Clicker,379975
+219,Cult Classic,7782
+220,Mouse only,11123
+221,Supernatural,10808
+222,Tabletop,17389
+223,Split Screen,10816
+224,Lovecraftian,7432
+225,Comic Book,1751
+226,Science,5794
+227,2D Fighter,4736
+228,Artificial Intelligence,7926
+229,Co-op Campaign,4508
+230,Rhythm,1752
+231,Lore-Rich,3854
+232,Souls-like,29482
+233,Space Sim,16598
+234,Life Sim,10235
+235,Photo Editing,809
+236,Open World Survival Craft,1100689
+237,CRPG,4474
+238,Match 3,1665
+239,Precision Platformer,3877
+240,Philosophical,15277
+241,Runner,8666
+242,Battle Royale,176981
+243,Steampunk,1777
+244,Political,4853
+245,Swordplay,4608
+246,3D Vision,29363
+247,Real-Time with Pause,7107
+248,eSports,5055
+249,MOBA,1718
+250,Mythology,16094
+251,Satire,1651
+252,Dragons,4046
+253,Class-Based,4155
+254,Voxel,1732
+255,Parody ,4878
+256,Mechs,4821
+257,Tanks,13276
+258,Gun Customization,5765
+259,Kickstarter,5153
+260,Remake,5708
+261,Grid-Based Movement,7569
+262,Noir,6052
+263,Bullet Time,5796
+264,4X,1670
+265,America,13190
+266,Deckbuilding,32322
+267,Politics,4754
+268,GameMaker,1649
+269,Pirates,1681
+270,Cold War,5179
+271,Cats,17894
+272,Hacking,5502
+273,Ninja,1688
+274,Trading,4202
+275,Trains,1616
+276,Hunting,9564
+277,6DOF,4835
+278,Card Battler,791774
+279,Experience,9994
+280,Otome,31579
+281,Touch-Friendly,25085
+282,Mining,5981
+283,Superhero,1671
+284,Hex Grid,1717
+285,Mod,5348
+286,Time Travel,10679
+287,Documentary,15339
+288,Dinosaurs,5160
+289,Gothic,3952
+290,Time Manipulation,6625
+291,God Game,5300
+292,Trading Card Game,9271
+293,Vehicular Combat,11104
+294,Agriculture,22602
+295,Naval,6910
+296,Colony Sim,220585
+297,Conspiracy,5372
+298,Capitalism,4845
+299,Dog,1638
+300,Minigames,8093
+301,Dungeons & Dragons,14153
+302,Fishing,15564
+303,Western,1647
+304,Martial Arts,6915
+305,Assassin,4376
+306,Word Game,24003
+307,Quick-Time Events,4559
+308,Programming,5432
+309,Mystery Dungeon,198631
+310,FMV,18594
+311,Underwater,9157
+312,Spectacle fighter,4777
+313,Heist,1680
+314,Games Workshop,5310
+315,Dynamic Narration,9592
+316,Farming Sim,87918
+317,Underground,21006
+318,Automation,255534
+319,Crowdfunded,7113
+320,Asynchronous Multiplayer,17770
+321,Sequel,5230
+322,3D Fighter,6506
+323,Gaming,150626
+324,Collectathon,5652
+325,Silent Protagonist,15954
+326,Time Attack,5390
+327,Vampire,4018
+328,Immersive,3934
+329,Soccer,1679
+330,Villain Protagonist,11333
+331,Football,7226
+332,Diplomacy,6310
+333,Hero Shooter,620519
+334,Faith,180368
+335,Political Sim,26921
+336,TrackIR,8075
+337,Idler,615955
+338,Combat Racing,4102
+339,Naval Combat,4994
+340,World War I,5382
+341,Sniper,7423
+342,Sokoban,1730
+343,Archery,13382
+344,Music-Based Procedural Generation,8253
+345,Sailing,13577
+346,Party,7108
+347,Narrative,7702
+348,Chess,4184
+349,Looter Shooter,353880
+350,Offroad,7622
+351,Gambling,16250
+352,Solitaire,13070
+353,Party Game,7178
+354,Horses,6041
+355,360 Video,776177
+356,On-Rails Shooter,56690
+357,Mars,6702
+358,Pinball,6621
+359,Snow,9803
+360,Unforgiving,1733
+361,Based On A Novel,3796
+362,Transhumanism,4137
+363,Typing,1674
+364,LEGO,1736
+365,Transportation,10383
+366,Foreign,51306
+367,Warhammer 40K,12286
+368,Trivia,10437
+369,Farming,4520
+370,Traditional Roguelike,454187
+371,Werewolves,17015
+372,Boxing,12190
+373,Rome,6948
+374,Nostalgia,14720
+375,Motorbike,198913
+376,Golf,7038
+377,Roguelike Deckbuilder,1091588
+378,Medical Sim,1100688
+379,Auto Battler,1084988
+380,Intentionally Awkward Controls,14906
+381,Bikes,123332
+382,Steam Machine,348922
+383,Asymmetric VR,856791
+384,Benchmark,5407
+385,Basketball,1746
+386,Creature Collector,916648
+387,Electronic Music,61357
+388,Jet,92092
+389,Mini Golf,22955
+390,Roguevania,922563
+391,Hardware,603297
+392,Submarine,19780
+393,Pool,17927
+394,Spelling,71389
+395,Ambient,29855
+396,Outbreak Sim,1100686
+397,Wrestling,47827
+398,Feature Film,233824
+399,Spaceships,4291
+400,Baseball,5727
+401,Voice Control,27758
+402,Lemmings,17337
+403,Tennis,5914
+404,Instrumental Music,189941
+405,Skateboarding,1753
+406,Social Deduction,745697
+407,Cycling,19568
+408,Hockey,324176
+409,Bowling,7328
+410,Electronic,143739
+411,Skating,96359
+412,Motocross,15868
+413,Breathtaking,8157
+414,Rock Music,337964
+415,Well-Written,8461
+416,Skiing,7309
+417,Reboot,5941
+418,Snowboarding,28444
+419,BMX,252854
+420,ATV,129761
+421,Action RTS,1723
+422,8-bit Music,117648
